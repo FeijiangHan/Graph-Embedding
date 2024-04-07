@@ -1,0 +1,204 @@
+[32m[04/07 19:51:12 graph]: [0mRank of current process: 0. World size: 1
+[32m[04/07 19:51:15 graph]: [0mEnvironment info:
+PyTorch version: 2.1.2+cpu
+Is debug build: False
+CUDA used to build PyTorch: Could not collect
+ROCM used to build PyTorch: N/A
+
+OS: Microsoft Windows 10 ¼ÒÍ¥ÖÐÎÄ°æ
+GCC version: Could not collect
+Clang version: 15.0.7
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.8.19 (default, Mar 20 2024, 19:55:45) [MSC v.1916 64 bit (AMD64)] (64-bit runtime)
+Python platform: Windows-10-10.0.19045-SP0
+Is CUDA available: False
+CUDA runtime version: Could not collect
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: GPU 0: NVIDIA GeForce RTX 3050 Laptop GPU
+Nvidia driver version: 516.54
+cuDNN version: Could not collect
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Architecture=9
+CurrentClockSpeed=3201
+DeviceID=CPU0
+Family=107
+L2CacheSize=4096
+L2CacheSpeed=
+Manufacturer=AuthenticAMD
+MaxClockSpeed=3201
+Name=AMD Ryzen 7 5800H with Radeon Graphics         
+ProcessorType=3
+Revision=20480
+
+Versions of relevant libraries:
+[pip3] numpy==1.24.4
+[pip3] torch==2.1.2
+[pip3] torch_geometric==2.5.2
+[pip3] torchdata==0.7.1
+[pip3] torchvision==0.16.2
+[conda] numpy                     1.24.4                   pypi_0    pypi
+[conda] torch                     2.1.2                    pypi_0    pypi
+[conda] torch-geometric           2.5.2                    pypi_0    pypi
+[conda] torchdata                 0.7.1                    pypi_0    pypi
+[conda] torchvision               0.16.2                   pypi_0    pypi
+        Pillow (10.3.0)
+[32m[04/07 19:51:15 graph]: [0mCommand line arguments: Namespace(checkpoint_dir=None, local_rank=0, output_dir='log2', resume=False, seed=1234, start_epoch=0, yaml_dir='./yamls/MUTAG.yaml')
+[32m[04/07 19:52:53 graph]: [0mRank of current process: 0. World size: 1
+[32m[04/07 19:52:56 graph]: [0mEnvironment info:
+PyTorch version: 2.1.2+cpu
+Is debug build: False
+CUDA used to build PyTorch: Could not collect
+ROCM used to build PyTorch: N/A
+
+OS: Microsoft Windows 10 ¼ÒÍ¥ÖÐÎÄ°æ
+GCC version: Could not collect
+Clang version: 15.0.7
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.8.19 (default, Mar 20 2024, 19:55:45) [MSC v.1916 64 bit (AMD64)] (64-bit runtime)
+Python platform: Windows-10-10.0.19045-SP0
+Is CUDA available: False
+CUDA runtime version: Could not collect
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: GPU 0: NVIDIA GeForce RTX 3050 Laptop GPU
+Nvidia driver version: 516.54
+cuDNN version: Could not collect
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Architecture=9
+CurrentClockSpeed=3201
+DeviceID=CPU0
+Family=107
+L2CacheSize=4096
+L2CacheSpeed=
+Manufacturer=AuthenticAMD
+MaxClockSpeed=3201
+Name=AMD Ryzen 7 5800H with Radeon Graphics         
+ProcessorType=3
+Revision=20480
+
+Versions of relevant libraries:
+[pip3] numpy==1.24.4
+[pip3] torch==2.1.2
+[pip3] torch_geometric==2.5.2
+[pip3] torchdata==0.7.1
+[pip3] torchvision==0.16.2
+[conda] numpy                     1.24.4                   pypi_0    pypi
+[conda] torch                     2.1.2                    pypi_0    pypi
+[conda] torch-geometric           2.5.2                    pypi_0    pypi
+[conda] torchdata                 0.7.1                    pypi_0    pypi
+[conda] torchvision               0.16.2                   pypi_0    pypi
+        Pillow (10.3.0)
+[32m[04/07 19:52:56 graph]: [0mCommand line arguments: Namespace(checkpoint_dir=None, local_rank=0, output_dir='log2', resume=False, seed=1234, start_epoch=0, yaml_dir='./yamls/MUTAG.yaml')
+[32m[04/07 19:54:26 graph]: [0mRank of current process: 0. World size: 1
+[32m[04/07 19:54:29 graph]: [0mEnvironment info:
+PyTorch version: 2.1.2+cpu
+Is debug build: False
+CUDA used to build PyTorch: Could not collect
+ROCM used to build PyTorch: N/A
+
+OS: Microsoft Windows 10 ¼ÒÍ¥ÖÐÎÄ°æ
+GCC version: Could not collect
+Clang version: 15.0.7
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.8.19 (default, Mar 20 2024, 19:55:45) [MSC v.1916 64 bit (AMD64)] (64-bit runtime)
+Python platform: Windows-10-10.0.19045-SP0
+Is CUDA available: False
+CUDA runtime version: Could not collect
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: GPU 0: NVIDIA GeForce RTX 3050 Laptop GPU
+Nvidia driver version: 516.54
+cuDNN version: Could not collect
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Architecture=9
+CurrentClockSpeed=3201
+DeviceID=CPU0
+Family=107
+L2CacheSize=4096
+L2CacheSpeed=
+Manufacturer=AuthenticAMD
+MaxClockSpeed=3201
+Name=AMD Ryzen 7 5800H with Radeon Graphics         
+ProcessorType=3
+Revision=20480
+
+Versions of relevant libraries:
+[pip3] numpy==1.24.4
+[pip3] torch==2.1.2
+[pip3] torch_geometric==2.5.2
+[pip3] torchdata==0.7.1
+[pip3] torchvision==0.16.2
+[conda] numpy                     1.24.4                   pypi_0    pypi
+[conda] torch                     2.1.2                    pypi_0    pypi
+[conda] torch-geometric           2.5.2                    pypi_0    pypi
+[conda] torchdata                 0.7.1                    pypi_0    pypi
+[conda] torchvision               0.16.2                   pypi_0    pypi
+        Pillow (10.3.0)
+[32m[04/07 19:54:29 graph]: [0mCommand line arguments: Namespace(checkpoint_dir=None, local_rank=0, output_dir='log2', resume=False, seed=1234, start_epoch=0, yaml_dir='./yamls/MUTAG.yaml')
+[32m[04/07 20:07:44 graph]: [0mRank of current process: 0. World size: 1
+[32m[04/07 20:07:48 graph]: [0mEnvironment info:
+PyTorch version: 2.1.2+cpu
+Is debug build: False
+CUDA used to build PyTorch: Could not collect
+ROCM used to build PyTorch: N/A
+
+OS: Microsoft Windows 10 ¼ÒÍ¥ÖÐÎÄ°æ
+GCC version: Could not collect
+Clang version: 15.0.7
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.8.19 (default, Mar 20 2024, 19:55:45) [MSC v.1916 64 bit (AMD64)] (64-bit runtime)
+Python platform: Windows-10-10.0.19045-SP0
+Is CUDA available: False
+CUDA runtime version: Could not collect
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: GPU 0: NVIDIA GeForce RTX 3050 Laptop GPU
+Nvidia driver version: 516.54
+cuDNN version: Could not collect
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Architecture=9
+CurrentClockSpeed=3201
+DeviceID=CPU0
+Family=107
+L2CacheSize=4096
+L2CacheSpeed=
+Manufacturer=AuthenticAMD
+MaxClockSpeed=3201
+Name=AMD Ryzen 7 5800H with Radeon Graphics         
+ProcessorType=3
+Revision=20480
+
+Versions of relevant libraries:
+[pip3] numpy==1.24.4
+[pip3] torch==2.1.2
+[pip3] torch_geometric==2.5.2
+[pip3] torchdata==0.7.1
+[pip3] torchvision==0.16.2
+[conda] numpy                     1.24.4                   pypi_0    pypi
+[conda] torch                     2.1.2                    pypi_0    pypi
+[conda] torch-geometric           2.5.2                    pypi_0    pypi
+[conda] torchdata                 0.7.1                    pypi_0    pypi
+[conda] torchvision               0.16.2                   pypi_0    pypi
+        Pillow (10.3.0)
+[32m[04/07 20:07:48 graph]: [0mCommand line arguments: Namespace(checkpoint_dir=None, local_rank=0, output_dir='log2', resume=False, seed=1234, start_epoch=0, yaml_dir='./yamls/MUTAG.yaml')
